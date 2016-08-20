@@ -11,6 +11,7 @@ body, html {
 	color: #fff;
 	font-size: 75px;
 	 -webkit-font-smoothing: antialiased;
+	margin-bottom: 40px;
 }
 .wi {
 	line-height: 75px;
